@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
 
 	[Header("Audio")]
     public AudioClip backgroundMusic;
-
+    public string Testing;
     [Header("UI Text")]
     public TMP_Text goldAmountText;
     public TMP_Text accountsAmountText;
